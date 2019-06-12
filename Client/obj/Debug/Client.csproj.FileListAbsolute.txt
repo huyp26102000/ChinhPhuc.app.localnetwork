@@ -1,0 +1,43 @@
+c:\users\huy hamada\documents\visual studio 2015\Projects\WindowsFormsApplication8\Client\obj\Debug\Client.Form1.resources
+c:\users\huy hamada\documents\visual studio 2015\Projects\WindowsFormsApplication8\Client\obj\Debug\Client.Properties.Resources.resources
+c:\users\huy hamada\documents\visual studio 2015\Projects\WindowsFormsApplication8\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+c:\users\huy hamada\documents\visual studio 2015\Projects\WindowsFormsApplication8\Client\bin\Debug\Client.exe.config
+c:\users\huy hamada\documents\visual studio 2015\Projects\WindowsFormsApplication8\Client\bin\Debug\Client.exe
+c:\users\huy hamada\documents\visual studio 2015\Projects\WindowsFormsApplication8\Client\bin\Debug\Client.pdb
+c:\users\huy hamada\documents\visual studio 2015\Projects\WindowsFormsApplication8\Client\obj\Debug\Client.exe
+c:\users\huy hamada\documents\visual studio 2015\Projects\WindowsFormsApplication8\Client\obj\Debug\Client.pdb
+c:\users\huy hamada\documents\visual studio 2015\Projects\WindowsFormsApplication8\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\WindowsFormsApplication8\Client\bin\Debug\Client.exe.config
+C:\Users\ASUS\Desktop\WindowsFormsApplication8\Client\obj\Debug\Client.exe
+C:\Users\ASUS\Desktop\WindowsFormsApplication8\Client\obj\Debug\Client.pdb
+C:\Users\ASUS\Desktop\WindowsFormsApplication8\Client\bin\Debug\Client.exe
+C:\Users\ASUS\Desktop\WindowsFormsApplication8\Client\bin\Debug\Client.pdb
+C:\Users\ASUS\Desktop\WindowsFormsApplication8\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\WindowsFormsApplication8\Client\obj\Debug\Client.Form1.resources
+C:\Users\ASUS\Desktop\WindowsFormsApplication8\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\ASUS\Desktop\WindowsFormsApplication8\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\WindowsFormsApplication8\Client\obj\Debug\Interop.WMPLib.dll
+C:\Users\ASUS\Desktop\WindowsFormsApplication8\Client\obj\Debug\Client.csproj.ResolveComReference.cache
+F:\WindowsFormsApplication8\Client\bin\Debug\Client.exe.config
+F:\WindowsFormsApplication8\Client\obj\Debug\Interop.WMPLib.dll
+F:\WindowsFormsApplication8\Client\obj\Debug\Client.csproj.ResolveComReference.cache
+F:\WindowsFormsApplication8\Client\obj\Debug\Client.exe
+F:\WindowsFormsApplication8\Client\obj\Debug\Client.pdb
+F:\WindowsFormsApplication8\Client\bin\Debug\Client.exe
+F:\WindowsFormsApplication8\Client\bin\Debug\Client.pdb
+F:\WindowsFormsApplication8\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+F:\WindowsFormsApplication8\Client\obj\Debug\Client.Form1.resources
+F:\WindowsFormsApplication8\Client\obj\Debug\Client.Properties.Resources.resources
+F:\WindowsFormsApplication8\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\WindowsFormsApplication8\Client\obj\Debug\Client.g.resources
+C:\Users\ASUS\Desktop\old\Client\bin\Debug\Client.exe.config
+C:\Users\ASUS\Desktop\old\Client\obj\Debug\Interop.WMPLib.dll
+C:\Users\ASUS\Desktop\old\Client\obj\Debug\Client.csproj.ResolveComReference.cache
+C:\Users\ASUS\Desktop\old\Client\obj\Debug\Client.exe
+C:\Users\ASUS\Desktop\old\Client\obj\Debug\Client.pdb
+C:\Users\ASUS\Desktop\old\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\old\Client\bin\Debug\Client.exe
+C:\Users\ASUS\Desktop\old\Client\bin\Debug\Client.pdb
+C:\Users\ASUS\Desktop\old\Client\obj\Debug\Client.Form1.resources
+C:\Users\ASUS\Desktop\old\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\ASUS\Desktop\old\Client\obj\Debug\Client.csproj.GenerateResource.Cache

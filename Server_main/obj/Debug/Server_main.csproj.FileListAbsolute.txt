@@ -1,0 +1,36 @@
+C:\Users\Huy Hamada\Documents\Visual Studio 2015\Projects\WindowsFormsApplication8\Server_main\bin\Debug\Server_main.exe.config
+C:\Users\Huy Hamada\Documents\Visual Studio 2015\Projects\WindowsFormsApplication8\Server_main\bin\Debug\Server_main.exe
+C:\Users\Huy Hamada\Documents\Visual Studio 2015\Projects\WindowsFormsApplication8\Server_main\bin\Debug\Server_main.pdb
+C:\Users\Huy Hamada\Documents\Visual Studio 2015\Projects\WindowsFormsApplication8\Server_main\obj\Debug\Server_main.csprojResolveAssemblyReference.cache
+C:\Users\Huy Hamada\Documents\Visual Studio 2015\Projects\WindowsFormsApplication8\Server_main\obj\Debug\Server_main.Form1.resources
+C:\Users\Huy Hamada\Documents\Visual Studio 2015\Projects\WindowsFormsApplication8\Server_main\obj\Debug\Server_main.Properties.Resources.resources
+C:\Users\Huy Hamada\Documents\Visual Studio 2015\Projects\WindowsFormsApplication8\Server_main\obj\Debug\Server_main.csproj.GenerateResource.Cache
+C:\Users\Huy Hamada\Documents\Visual Studio 2015\Projects\WindowsFormsApplication8\Server_main\obj\Debug\Server_main.exe
+C:\Users\Huy Hamada\Documents\Visual Studio 2015\Projects\WindowsFormsApplication8\Server_main\obj\Debug\Server_main.pdb
+C:\Users\ASUS\Desktop\WindowsFormsApplication8\Server_main\bin\Debug\Server_main.exe.config
+C:\Users\ASUS\Desktop\WindowsFormsApplication8\Server_main\bin\Debug\Server_main.exe
+C:\Users\ASUS\Desktop\WindowsFormsApplication8\Server_main\bin\Debug\Server_main.pdb
+C:\Users\ASUS\Desktop\WindowsFormsApplication8\Server_main\obj\Debug\Server_main.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\WindowsFormsApplication8\Server_main\obj\Debug\Server_main.Form1.resources
+C:\Users\ASUS\Desktop\WindowsFormsApplication8\Server_main\obj\Debug\Server_main.Properties.Resources.resources
+C:\Users\ASUS\Desktop\WindowsFormsApplication8\Server_main\obj\Debug\Server_main.csproj.GenerateResource.Cache
+C:\Users\ASUS\Desktop\WindowsFormsApplication8\Server_main\obj\Debug\Server_main.exe
+C:\Users\ASUS\Desktop\WindowsFormsApplication8\Server_main\obj\Debug\Server_main.pdb
+C:\Users\ASUS\Desktop\WindowsFormsApplication8\Server_main\obj\Debug\Interop.WMPLib.dll
+C:\Users\ASUS\Desktop\WindowsFormsApplication8\Server_main\obj\Debug\Server_main.csproj.ResolveComReference.cache
+F:\WindowsFormsApplication8\Server_main\bin\Debug\Server_main.exe.config
+F:\WindowsFormsApplication8\Server_main\obj\Debug\Interop.WMPLib.dll
+F:\WindowsFormsApplication8\Server_main\obj\Debug\Server_main.csproj.ResolveComReference.cache
+F:\WindowsFormsApplication8\Server_main\obj\Debug\Server_main.exe
+F:\WindowsFormsApplication8\Server_main\obj\Debug\Server_main.pdb
+C:\Users\ASUS\Desktop\old\Server_main\bin\Debug\Server_main.exe.config
+C:\Users\ASUS\Desktop\old\Server_main\obj\Debug\Interop.WMPLib.dll
+C:\Users\ASUS\Desktop\old\Server_main\obj\Debug\Server_main.csproj.ResolveComReference.cache
+C:\Users\ASUS\Desktop\old\Server_main\obj\Debug\Server_main.exe
+C:\Users\ASUS\Desktop\old\Server_main\obj\Debug\Server_main.pdb
+C:\Users\ASUS\Desktop\old\Server_main\bin\Debug\Server_main.exe
+C:\Users\ASUS\Desktop\old\Server_main\bin\Debug\Server_main.pdb
+C:\Users\ASUS\Desktop\old\Server_main\obj\Debug\Server_main.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Desktop\old\Server_main\obj\Debug\Server_main.Form1.resources
+C:\Users\ASUS\Desktop\old\Server_main\obj\Debug\Server_main.Properties.Resources.resources
+C:\Users\ASUS\Desktop\old\Server_main\obj\Debug\Server_main.csproj.GenerateResource.Cache
